@@ -105,6 +105,136 @@ footer p{
 	border:1px solid #333;
 	margin:10px 3px;
 }
+.minhhoa {
+	width: 300px;
+	height: 400px;
+}
+.hinhanh{
+	float: left;
+	clear: right;
+	overflow: auto;
+}
+.content {
+	display: flex;
+}
+.giaohang {
+	font-size: 14px;
+	font-weight: normal;
+	font-style: italic;
+    cursor: pointer;
+    color: #8a4444;
+    padding: 5px 5px 5px 40px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+    background-color: #f8f8f8;
+    border: 1px solid #eaeaea;
+}
+.motasanpham {
+	width: 100%;
+	margin-left: 10px;
+}
+.khuyenmai-detail{
+	font-family: Arial,Helvetica,sans-serif;
+	line-height: 1.42857143;
+	color: #333;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	border: 1px dotted black;
+	font-size: 100%;
+	font-weight: normal;
+	vertical-align: baseline;
+	background: transparent;
+}
+.khuyenmaidb {
+	padding: 4px 10px;
+    font-weight: bold;
+    color: #fff;
+    background: #34a105;
+    border-bottom: 1px dashed #d7d7d7;
+}
+.fk-main {
+	font-family: Arial,Helvetica,sans-serif;
+	line-height: 1.42857143;
+	color: #333;
+	box-sizing: border-box;
+	margin: 0;
+	border: 0;
+	font-size: 100%;
+	font-weight: normal;
+	vertical-align: baseline;
+	background: transparent;
+	padding: 15px 15px 5px 15px;
+}
+.fk-main a {
+	text-decoration: none;
+	font-size: 12px;
+}
+.button2 {
+	background-color: #d0021b;
+	border: 1px solid #d0021b;
+	width: 200px;
+	height: 50px;
+	font-size: 30px;
+	color: white;
+	font-weight: normal;
+	font-family: Arial,Helvetica,sans-serif;
+	font-style: italic;
+	cursor: pointer;
+
+}
+.fk-main ul li {
+	margin-left: 20px;
+	color: black;
+	margin-bottom: 10px;
+}
+.tkmspcrb {
+	font-family: Arial,Helvetica,sans-serif;
+	line-height: 1.42857143;
+	box-sizing: border-box;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	font-weight: bold;
+	color: #d0021b!important;
+	font-style: normal!important;
+	background: none!important;
+	display: block!important;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+.tkmspbb{
+	font-family: Arial,Helvetica,sans-serif;
+	line-height: 1.42857143;
+	box-sizing: border-box;
+	margin: 0;
+	border: 0;
+	vertical-align: baseline;
+	margin-bottom: 5px;
+	padding: 2px 5px;
+	font-size: 12px;
+	border-radius: 3px;
+	display: block;
+	font-weight: bold;
+	color: #000;
+	background: none;
+	font-style: normal;
+}
+.fk-sale {
+	font-family: Arial,Helvetica,sans-serif;
+	line-height: 1.42857143;
+	color: #333;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font-weight: normal;
+	vertical-align: baseline;
+	background: transparent;
+}
 .button{
 	background-color:#f3285b;
 	height:30px;
